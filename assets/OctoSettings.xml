@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<OctoReader>
+    <PortNum>3</PortNum>
+    <BaudRate>115200</BaudRate>
+    <RetryPollTimeOut>20</RetryPollTimeOut>/ 
+    <PollTimeOut>10</PollTimeOut>
+</OctoReader>

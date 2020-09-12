@@ -1,0 +1,374 @@
+{
+  "homeSelect":{
+    "eng": "please select option",
+    "cn": "請選擇以下選項"
+  },
+  "homeWarn":{
+    "eng": "DO NOT DEPOSIT COINS BEFORE SELECTING AN OPTION",
+    "cn": "投入硬幣前，請選擇以上其一選項"
+  },
+  "homeExit":{
+    "eng": "exit player"
+
+  },
+  "acceptTerm":{
+    "eng": "ACCEPT TERMS",
+    "cn" : "接受條款"
+  },
+  "charityTerm":{
+    "eng" : "CharityTerms-eng.html",
+    "cn" : "CharityTerms-cn.html"
+  },
+  "bankTerm":{
+    "eng": "BankTerms-eng.html",
+    "cn": "BankTerms-cn.html"
+  },
+  "octopusTerm":{
+    "eng": "OctopusTerms-eng.html",
+    "cn": "OctopusTerms-cn.html"
+  },
+  "TNGTerm":{
+    "eng": "TNGTerms-eng.html",
+    "cn": "TNGTerms-cn.html"
+  },
+  "JousunTerm":{
+    "eng": "JousunTerms-eng.html",
+    "cn": "JousunTerms-cn.html"
+  },
+  "HCTerm":{
+    "eng": "HCTerms-eng.html",
+    "cn": "HCTerms-cn.html"
+  },
+  "decline":{
+    "eng": "START OVER",
+    "cn": "回到主頁"
+  },
+  "agree":{
+    "eng": "agree",
+    "cn": "同意"
+  },
+  "disagree":{
+    "eng": "disagree",
+    "cn" : "不同意"
+  },
+  "warnDepositBtn":{
+    "eng": "AGREED. I SHALL NOT DEPOSIT THESE ITEMS",
+    "cn": "我同意並接受條款"
+  },
+  "warnDepositTitle":{
+    "eng": "This machine will be DAMAGED if you deposit",
+    "cn" : "注意︰投入以下物品會導致機件故障"
+  },
+  "warnDepositMsg":{
+    "eng": "Violators will be responsible for repair costs. Forbidden items will NOT be refunded.",
+    "cn" : "如強行投入上述硬幣物品，交易將不獲處理，所有硬幣亦不獲退還。"
+  },
+  "warnDepositImg":{
+    "eng": "TRASH-ENG.jpg",
+    "cn": "TRASH-CN.jpg"
+  },
+  "instrStep1":{
+    "eng": "Pour Coins Onto Tray",
+    "cn": "把硬幣放在托盤上"
+  },
+  "instrStep2":{
+    "eng": "Remove Trash / Non-Coin Objects",
+    "cn": "清除障礙物/非硬幣物"
+  },
+  "instrStep3":{
+    "eng": "Gently Tilt Tray",
+    "cn": "托起硬幣托盤"
+  },
+  "instrStep4":{
+    "eng": "Complete Steps 1, 2, and 3 ... Then",
+    "cn": "按照步驟1-3 之後按 ..."
+  },
+  "instrBtn":{
+    "eng": "PRESS TO START",
+    "cn" : "開始計算"
+  },
+  "rate":{
+    "eng": "rate",
+    "cn": "回報率"
+  },
+  "coin":{
+    "eng" : "coin",
+    "cn" : "硬幣金額"
+  },
+  "countLoading":{
+    "eng": "counting ...",
+    "cn": "點算中..."
+  },
+  "countAddMore":{
+    "eng": "ADD MORE COINS",
+    "cn": "計算更多硬幣"
+  },
+  "continue":{
+    "eng" : "CONTINUE",
+    "cn" : "前往結算"
+  },
+  "changeOption":{
+    "eng": "CHANGE OPTIONS",
+    "cn": "更改選項"
+  },
+  "TngQr":{
+    "eng": "TNG QR Code",
+    "cn": "請顯示TNG二維碼(QR)"
+  },
+  "OpenTNGApp":{
+    "eng": "START TNG APP",
+    "cn": "啟動 TNG APP"
+  },
+  "topup":{
+    "eng": "TOP UP",
+    "cn": "前往增值"
+  },
+  "tngValue":{
+    "eng" : "TNG Top-Up Value",
+    "cn": "TNG電子錢包增值"
+  },
+  "TNGSuccess":{
+    "eng": "TNG Top-Up Successful!",
+    "cn": "TNG增值成功!"
+  },
+  "TNGFail":{
+    "eng" : "TNG Top-Up Failed. Retry?",
+    "cn" : "TNG增值出現問題。重試?"
+  },
+  "TNGConnecting":{
+    "eng": "Connecting to TNG. Please wait ...",
+    "cn" : "正在聯結中，請稍候。。。"
+  },
+  "TNGQRFail":{
+    "eng" : "No Valid QR Code Found! Retry?",
+    "cn" : "TNG二維碼(QR)無效。重試?"
+  },
+  "octopusValue":{
+    "eng" : "OCTOPUS ADD VALUE:",
+    "cn" : "八達通增值金額:"
+  },
+  "retry":{
+    "eng": "RETRY",
+    "cn" : "重試"
+  },
+  "octopusCheckImg":{
+    "eng": "OctopusCheck-eng.png",
+    "cn" : "OctopusCheck-cn.png"
+  },
+  "octopusRemain":{
+    "emg": "Octopus Remaining Value:",
+    "cn" : "八達通餘額:"
+  },
+  "thank":{
+    "eng": "Thanks for using Coin Dragon!",
+    "cn" : "謝謝選用 Coin Dragon!"
+  },
+  "saveReceipt":{
+    "eng": "Save Your Receipt?",
+    "cn": "傅送收據給您？"
+  },
+  "skip":{
+    "eng": "SKIP",
+    "cn": "完成"
+  },
+  "emailReceipt":{
+    "eng": "Email Receipt",
+    "cn" : "電郵收據"
+  },
+  "smsReceipt":{
+    "eng": "Mobile - Sms Receipt",
+    "cn" : "短訊收據"
+  },
+  "PaperFreeMachine":{
+    "eng" : "This is a (green) paper-free machine",
+    "cn" : "這是一個無紙的(環保型)機器。"
+  },
+  "systemLoad":{
+    "eng": "System is loading. Please wait...",
+    "cn": "系統正在加載。 請稍候。。。"
+  },
+  "name":{
+    "eng": "name",
+    "cn": "名称"
+  },
+  "enterBankAccount":{
+    "eng": "Enter your bank account number:",
+    "cn" : "請輸入閣下的銀行賬戶號碼"
+  },
+  "confirmBankAccount":{
+    "eng": " Confirm your bank account number",
+    "cn": "确认您的银行帐号"
+  },
+  "bankAccount":{
+    "eng": "Bank Account Number",
+    "cn" : "银行帐号"
+  },
+  "clear":{
+    "eng": "clear",
+    "cn": "刪除"
+  },
+  "prefer":{
+    "eng": "prefer",
+    "cn": "偏爱"
+  },
+  "bankWarn":{
+    "eng": "You must type all inputs.",
+    "cn": "您必须键入所有输入。"
+  },
+  "success":{
+    "eng": "success",
+    "cn" : "成功"
+  },
+  "failure":{
+    "eng": "failure",
+    "cn": "失败"
+  },
+  "confirm":{
+    "eng": "confirm",
+    "cn": "确认"
+  },
+  "NoCoinWarning":{
+    "eng": "No valid coins detected! Please see guide below:",
+    "cn": "未能偵測硬幣! 請跟住指示投入硬幣。"
+  },
+  "processSpillOver":{
+    "eng": "Process leftover value",
+    "cn" : "處理剩餘金額"
+  },
+  "send":{
+    "eng" : "SEND",
+    "cn" : "傅送"
+  },
+  "email":{
+    "eng": "Email",
+    "cn": "電郵"
+  },
+  "plzEnterEmail":{
+    "eng": "Please enter email address.",
+    "cn" : "請輸入電郵地址。"
+  },
+  "guide":{
+    "eng": "How It Works",
+    "cn": "操作指南"
+  },
+  "faq":{
+    "eng": "FAQ",
+    "cn": "常問問題"
+  },
+  "faqLink":{
+    "eng": "faq-eng.html",
+    "cn": "faq-cn.html"
+  },
+  "policy":{
+    "eng": "Privacy Policy",
+    "cn": "隱私政策"
+  },
+  "policyLink":{
+    "eng": "policy-eng.html",
+    "cn": "policy-cn.html"
+  },
+  "retrieveByOctopus":{
+    "eng": "Retrieve \n By Octopus",
+    "cn": "以八達通檢索"
+  },
+  "retrieveByPin":{
+    "eng": "Retrieve \n By PIN",
+    "cn": "以密碼檢索"
+  },
+  "helpMenu":{
+    "eng": "Help Menu",
+    "cn": "指南"
+  },
+  "afterSteps":{
+    "eng": "PUT COINS IN, THEN",
+    "cn": "注意 : 先投入硬幣，之後"
+  },
+  "contact":{
+    "eng": "Contact",
+    "cn": "聯繫方式"
+  },
+  "guideStep1":{
+    "eng": "1. Select one of the following output for your coins",
+    "cn": "1. 請選擇一個渠道存入您的硬幣值："
+  },
+  "guideStep2":{
+    "eng": "2. Read and accept the \"Terms of Use\". Some options incur a service fee.",
+    "cn": "2. 請閱讀並接受使用條款   注意：有些選項收取服務費"
+  },
+  "guideStep3":{
+    "eng": "3. Deposit your coins onto the tray as follows:",
+    "cn": "3. 請投入您的硬幣 (請參考以下圖案) :"
+  },
+  "guideStep4":{
+    "eng": "4. Check your receipt. Email or take a photo of receipt for reference.",
+    "cn": "4. 請檢查你的收據。你可以選擇發送電子郵件或用手機拍下收據圖。"
+  },
+  "charity":{
+    "eng": "Charity Donation",
+    "cn" : "慈善捐贈"
+  },
+  "octopus":{
+    "eng": "Octopus Add-Value Service",
+    "cn": "八達通增值"
+  },
+  "tng":{
+    "eng": "TNG Add-Value Service",
+    "cn": "TNG電子錢包"
+  },
+  "bank":{
+    "eng": "Bank Transfer",
+    "cn": "銀行轉帳"
+  },
+  "retrievePinTitle":{
+    "eng": "Retrieve/Save Transaction",
+    "cn": "搜索/ 儲存存款"
+  },
+  "retrivePinContent":{
+    "eng": [
+      "* If you SAVED a transaction on this kiosk in the last 7 days with a username and 4-digit password, please retrieve it here. To SAVE, enter desired username and password.",
+      "* Simply enter your name and 4-digit password and press \"SAVE/RETRIEVE\"",
+      "* If you have any questions at all, please feel free to call/Whatsapp 6179-9335."
+    ],
+    "cn": [
+      "* 如果您在過去7日內在本機中儲存了硬幣存款，並通過輸入名稱和4位數密碼保存它，您可以用下面的搜索硬幣存款。若要儲存請輸入新名稱和4位數密碼。",
+      "* 只需輸入您指定名稱和密碼，並點繫 [ 搜索/ 儲存] 。",
+      "* 如果您有任何問題 請致電或Whatsapp： 6179-9335。"
+    ]
+  },
+  "username":{
+    "eng": "User Name",
+    "cn": "用戶名稱"
+  },
+  "password":{
+    "eng": "Password",
+    "cn" : "密碼"
+  },
+  "save":{
+    "eng" : "SAVE",
+    "cn" : "保存"
+  },
+  "OctopusBalanceTitle":{
+    "eng": "OCTOPUS REMAINING VALUE",
+    "cn": "八達通餘額"
+  },
+  "OctopusRemainingValue":{
+    "eng": "Octopus Remaining Value:",
+    "cn": "八達通餘額:"
+  },
+  "MaxStoredValueNote":{
+    "eng": "NOTE: Kindly ensure your Octopus has sufficient stored value quota.",
+    "cn" : "注意：請確保八達通卡有足夠的儲值空間"
+  },
+  "DepositAndTapAgain":{
+    "eng": "Must tap again after coin count to add value.",
+    "cn" : "計算硬幣後，需再次拍八達通以進行增值"
+  },
+  "CountingNotice":{
+    "eng": "DO NOT PUT COINS IN WHEN COUNTING! PLEASE WAIT.",
+    "cn": "點算中請勿投入硬幣！請稍等。"
+  },
+  "IdleMessage":{
+    "eng": "Do you need more time?",
+    "cn": "需要更多時間？"
+  }
+}

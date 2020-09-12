@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Sorter>
+  <PortName>COM4</PortName>
+  <BaudRate>9600</BaudRate>
+  <VibrationTimeout>6500</VibrationTimeout>
+  <PunchTimer>500</PunchTimer>
+</Sorter>

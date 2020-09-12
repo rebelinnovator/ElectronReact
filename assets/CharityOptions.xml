@@ -1,0 +1,474 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Charities>
+  <Charity>
+    <Name>HKDR</Name>
+    <Desc>
+      Hong Kong Dog Resuce (HKDR) was founded in 2003 for the specific purpose of saving dogs and puppies from the Hong Kong Government’s Agriculture, Fisheries and Conservation Department (AFCD) Animal Management Centres.
+      
+      The organisation has cared for and re-homed more than 7,900 dogs while being largely funded by private donations. Currently there are over 600 dogs under our care. We operate two Homing Centres that are open daily for adoption.
+      
+      HKDR is proud to be a No Kill Organisation, meaning that no dog under its care will be euthanised for any reason other than when it is the only humane option.
+    </Desc>
+    <Year>2003</Year>
+    <Website>hongkondogrescue.com</Website>
+    <Email>info@hongkongdogrescue.com</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - HKDR.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - HKDR.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>HKFP</Name>
+    <Desc>
+      Hong Kong Free Press is a non-profit, English-language news source seeking to unite critical voices on local and national affairs.
+      
+      Run by journalists and completely independent, HKFP seeks to amplify the voices of the voiceless, not the powerful.
+      
+      HKFP arrived amid rising concerns over declining press freedom in Hong Kong and is home to a mix of original reporting, features and interviews.
+      
+      We are committed to reporting the facts without fear, favour or interference and rely on direct support from readers to keep us going.
+    </Desc>
+    <Year>2015</Year>
+    <Website>www.hongkongfp.com</Website>
+    <Email>info@hongkongfp.com</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - HKFP.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - HKFP.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>ImpactHK</Name>
+    <Desc>
+      ImpactHK is a registered Hong Kong charity transforming the lives of the homeless and giving them a second chance.
+      
+      ImpactHK are on the streets every day serving the homeless in hopes of building trust and friendships.
+      
+      ImpactHK house, employ and provide their beneficiaries with the opportunity for a wholistic transformation with friendship being the key component.
+    </Desc>
+    <Year>2017</Year>
+    <Website>impacthk.org</Website>
+    <Email>hello@impacthk.org</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - ImpactHK.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - ImpactHK.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>ChickenSoup</Name>
+    <Desc>
+      ChickenSoup Foundation ("CSF") is a privately-funded charity that serves the most at-risk children and youth in Hong Kong with FREE services: Family Relief, Education and Empowerment (Sports, Music, and Art).
+      
+      CSF actively collaborates with the private sector, such as corporates, schools, family foundations, businesses and charities, to deliver sustainable social impact throughout Hong Kong.  Current location coverage (14) includes: Tin Shui Wai, Tuen Mun, Tung Chung, Tsing Yi, Sheung Wan, Tsuen Wan, Kwai Chung, Lai King, Cheung Sha Wan, Sham Shui Po, Kowloon City, Kowloon Bay, Tseung Kwan O, and Chai Wan.
+    </Desc>
+    <Year>2013</Year>
+    <Website>www.chickensoupfoundation.com</Website>
+    <Email>manager@chickensoupfoundation.org</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - ChickenSoup.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - ChickenSoup.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>The Green Earth</Name>
+    <Desc>
+      The Green Earth (TGE) is a charitable organization in Hong Kong. Through public education and community mobilization, our mission is to facilitate action by igniting green energy throughout our community, to promote resource conservation and a zero-waste culture by changing attitudes, and to turn Hong Kong into a healthy green city.
+
+      "Cherish the Earth” is TGE’s core value. We love diversified intervention, walking together as companions, to help everyone in the community embrace green citizen responsibilities in establishing a sustainable living environment.
+
+      We are a self‐financed non-profitable organization without government subsidy, but completely relies on the public donation to support our green missions.
+
+      Be our green companion!
+    </Desc>
+    <Year>2016</Year>
+    <Website>http://greenearth.org.hk</Website>
+    <Email> info@greenearth.org.hk </Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - TheGreenEarth.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - TheGreenEarth.jpg</ShowCaseImage1>
+  </Charity>
+
+  <Charity>
+    <Name>UNICEF</Name>
+    <Desc>
+      About UNICEF
+
+      UNICEF works in the world’s toughest places to reach the most disadvantaged children and adolescents - and to protect the rights of every child, everywhere. Across 190 countries and territories, we do whatever it takes to help children survive, thrive and fulfil their potential, from early childhood through adolescence.
+
+      And we never give up.
+
+      About UNICEF HK
+
+      Hong Kong Committee for UNICEF (UNICEF HK) was founded in 1986 and was established as an independent local non-government organization to raise funds through public donations, partnerships with companies, special events, etc. to support UNICEF’s work. UNICEF HK also promotes and advocates for children’s rights via organizing education and youth programmes in Hong Kong.
+
+      UNICEF HK generates its revenue from individual and corporate supporters. We receive no donations from the HKSAR Government.
+    </Desc>
+    <Year>1946</Year>
+    <Website>https://www.unicef.org.hk/</Website>
+    <Email> info@unicef.org.hk </Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - UNICEF.png</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - UNICEF.jpg</ShowCaseImage1>
+  </Charity>
+
+  <Charity>
+    <Name>Her Fund</Name>
+    <Desc>
+      HER Fund is the only community fund in Hong Kong that regularly gives grants and organizes capacity building programs to advance gender equality with a focus on advancing rights of women and girls in the least resources and most neglected sectors in our society. 
+      
+      We raise fund and prioritize grants to combat gender-based violence, reduce poverty, end discrimination, and promote women’s civil participation
+      
+      HER Fund serves as a social incubator for innovative gender-based initiatives built by and for grassroots and marginalized women and girls, contributing to the advancement of larger social change for the betterment of society as a whole. With the supports from various funders and donors, we have made over 140 small grants (a total of over HKD 5.5millions) to over 60 women’s and community-based NGOs since 2004.
+    </Desc>
+    <Year>2004</Year>
+    <Website>www.hefund.org.hk</Website>
+    <Email>info@herfund.org.hk</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - HER Fund.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - HerFund.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>SRDC</Name>
+    <Desc>SRDC was established in 1953 with the mission to support medical, surgical, rehabilitation and educational services to disabled children in Hong Kong.
+    
+    We believe every child has the right to live a happy and fulfilling life. 
+    
+    We strive to create a world where they contribute to society and realize their full potential.</Desc>
+    <Year>1903</Year>
+    <Website>www.srdc.org.hk</Website>
+    <Email>event@srdc.org.hk</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - SRDC.JPG</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - SRDC.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>SPCA</Name>
+    <Desc>
+      The SPCA is the largest animal welfare charity organisation in Hong Kong, and is dedicated to all aspects of animal welfare. We are not government funded. 
+      
+      Over 90% of our income comes from the general public and supporters just like you. Your contribution will help bring a better tomorrow for animals in need!
+      
+      Last year, we collected or rescued over 3,500 animals and found permanent homes for 2,600 animals. Your generous support is essential for us to continue our vital work in the community.
+    </Desc>
+    <Year>1903</Year>
+    <Website>www.spca.org.hk</Website>
+    <Email>info@spca.hk</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - SPCA.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - SPCA.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>Yan Chai Hospital</Name>
+    <Desc>Yan Chai Hospital Board was established in 1962. After years of growth and development, it has become one of the six leading charitable organizations in Hong Kong. 
+    
+    Our total establishment now comprises over 4,500 staff members, providing all-rounded services with over 90 service units in Hong Kong.</Desc>
+    <Year>1962</Year>
+    <Website>www.yanchai.org.hk</Website>
+    <Email>corpcom@yanchai.org</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - YanChaiHospital.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - YanChai.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>Lifewire</Name>
+    <Desc>
+      As the pioneer online crowdfunding charity platform in Hong Kong, Lifewire raises money for children’s medical needs, especially supporting children with rare diseases and serious illness causes. Lifewire hopes to awaken public's awareness to rare diseases and work with the patients to overcome every challenge in life.
+
+      How to help:
+      • Donation
+      • Volunteering
+      • Create your own campaign
+      • Social media sharing
+
+    </Desc>
+    <Year>2014</Year>
+    <Website>www.lifewire.hk</Website>
+    <Email>info@lifewire.hk</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - LIFEWIRE.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - LIFEWIRE ENG.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>Eye Fund</Name>
+    <Desc>
+      Eye Fund is a nonprofit charitable institution (Registration Number: 91/8616), upholding the mission of “Prevent, Cure and Eradicate Blindness” and conveying the right understanding of eye care and accurate eye information to the general public.
+      
+      Eye Fund has focused on people who care about their health. Through regular collaboration with community organizations, health education and exhibitions are held to raise public awareness of eye health.
+    </Desc>
+    <Year>2007</Year>
+    <Website>www.eye-fund.org</Website>
+    <Email>info@eye-fund.org</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - EYEFUND_WHITE.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - EyeFund.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>Make A Wish</Name>
+    <Desc>
+      Make-A-Wish Hong Kong was registered in Hong Kong as a charity (registration number: 91/5366) in 1998.
+
+      Our mission is to create life-changing wishes for children with critical illnesses aged between 3 and 17, in Hong Kong and Macau, to enrich the human experience with hope, strength and joy.
+
+      To date, Make-A-Wish Hong Kong has transformed nearly 2,000 children’s lives. We are dedicated to making every eligible child’s wish come true.
+    </Desc>
+    <Year>1998</Year>
+    <Website>https://makeawish.org.hk/</Website>
+    <Email>info@makeawish.org.hk</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - MAW.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - MAW.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>Lok Sin Tong</Name>
+    <Desc>
+      The Lok Sin Tong Benevolent Society, Kowloon (LST) was founded in 1880 with the mission to, serve the public with quality and diversified services. LST currently operates a total of more than 50 subsidiary units across the region to offer a wide spectrum of quality services, including the provision of medical, education, social welfare and medical care.
+
+      The Lok Sin Tong Caring Fund is managed by LST. It aims to provide a rapid response to people with imminent need to overcome their financial hardship under special and emergency situation. Application is accepted throughout the year.
+    </Desc>
+    <Year>1880</Year>
+    <Website>https://www.loksintong.org/</Website>
+    <Email>donation@loksintong.org</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - LOKSINTONG.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - LOKSINTONG.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>Rehab Life</Name>
+    <Desc>
+      Rehablife Limited is a charity organization in-corporated in July 2017. It was founded by the owner of another charity organization “Fruit Garden Social Enterprise Limited”, in light of the need of our society and his past experiences. 
+      
+      Rehablife is a Hong Kong government recognized charity organization (License number 91/15654). With over a year operation at test and the volunteers’ assistance, Rehablife is now ready to provide premium full service to the wheel chair users who live in poverty effective November 2018.
+      
+      Mission:
+      •	The objective of Rehablife is to create a barrier-free platform for the wheelchair users to go for regular medical checkup with no hassle.
+      •	Our Primary service is a free of charge non-emergency car pick up service to/from hospital.
+      
+    </Desc>
+    <Year>2017</Year>
+    <Website>www.rehablife.org.hk</Website>
+    <Email>rehablifehk@gmail.com</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - RehabLife.png</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - RehabLife.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>Fruit Garden</Name>
+    <Desc>
+     Fruit Garden Social Enterprise is a non-profit-making organization established in Hong Kong that committed to rescuing the abandoned fur babies since 2013. In the past 6 years,  we rescue more than 600 fur babies and find lovely home for them.  We continue to fight for animal rights, provide temporary housing, arrange for adoption and help them to find a warm home.  
+     
+     While helping fur babies, we also give priority in hiring disabled people in the society.  In order to reduce family problems, and let them regain their self-confidence and return to the society.
+    </Desc>
+    <Year>2013</Year>
+    <Website>www.fgse.org.hk</Website>
+    <Email>fruitgardense@gmail.com</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - FruitGarden.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - FruitGarden.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>Aide et Action</Name>
+    <Desc>
+      Aide et Action (AEA) is a charitable organization that works towards making education accessible to all. 
+      
+      AEA works with children, but also with population groups that are discriminated against or are most vulnerable.
+      
+      For more than 35 years, we have been working to ensure that every individual receives quality education that enables them to grow and thrive, find employment and support their families with dignity. 
+      
+      We intervene everywhere deemed necessary and feasible, and are recognized as being of public benefit and free from any political and religious ties.
+    </Desc>
+    <Year>1981</Year>
+    <Website>www.aeahk.org.hk</Website>
+    <Email>info-hongkong@aide-et-action.org</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - AEA ENG.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - AEA.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>Against Child Abuse</Name>
+    <Desc>The Against Child Abuse (ACA) was established in 1979 as a local charitable organisation specialised in child protection. 
+    
+    We strive to eliminate all forms of child abuse with the mission of promoting a caring and non-violent environment for the optimal growth and development of our children. 
+    
+    To achieve our  goals, ACA provides quality preventive, risk intervention, remedial services, and advocates for children welfare.</Desc>
+    <Year>1979</Year>
+    <Website>www.aca.org.hk</Website>
+    <Email>donate@aca.org.hk</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - ACA.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - ACA ENG.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>Chinese YMCA</Name>
+    <Desc>
+      Chinese YMCA of Hong Kong is a Christian service organisation based in Hong Kong as part of the global YMCA movement. 
+      
+      The objective and purpose were clearly stated in the Constitution as “the development of Christian character and the cultivation of the Christian spirit of service among young men, in accordance with the teachings of Jesus Christ.”
+      
+      Established by YMCA, “Realise Love, Realise Dreams” Project hopes to provide a matching platform through which the underprivileged can fulfil their dreams by using the resources contributed by all walks of life.
+    </Desc>
+    <Year>1901</Year>
+    <Website> http://www.ymca.org.hk/en </Website>
+    <Email> realiselove@ymca.org.hk </Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - YMCA.png</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - YMCA.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>Christian Action</Name>
+    <Desc>Established in 1985, Christian Action’s mission is to serve those who are disadvantaged, marginalised or abandoned, regardless of their age, gender, nationality and religion, to give them hope, dignity and self-reliance. Our service recipients: the low-income families, ethnic minorities, refugees, migrant domestic workers, orphans and abandoned children in Qinghai. We also run social enterprise programmes.</Desc>
+    <Year>1985</Year>
+    <Website>http://www.christian-action.org.hk</Website>
+    <Email>donor@christian-action.org.hk</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - Christian Action.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - ChristianAction.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>Hong Kong Blind Union</Name>
+    <Desc>Hong Kong Blind Union was established in 1964. It is the first self-help group organized and managed by people with visual impairment. It aims at promoting the spirit of self-help and mutual-help as well as striving for equality, opportunities and independence for visually impaired persons.</Desc>
+    <Year>1964</Year>
+    <Website>www.hkbu.org.hk</Website>
+    <Email>info@hkbu.org.hk</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - HKBU.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - HKBU.jpg</ShowCaseImage1>
+  </Charity>
+
+  <Charity>
+    <Name>OPCF</Name>
+    <Desc>
+      Ocean Park Conservation Foundation, Hong Kong (OPCFHK) is committed to advocating, facilitating and participating in effective conservation of Asian wildlife through partnerships, fundraising, research and education. Since its expansion in 2005, OPCFHK has funded over 500 research projects on cetaceans, giant pandas and many other species across Asia. The operation of the Marine Mammal Stranding Response Team in Hong Kong has been running since 2006.
+      
+      OPCFHK continues to inspire university students to engage in field work as part of its University Student Sponsorship Programme in Wildlife Conservation, and connects secondary school students as well as corporations to horseshoe crab conservation efforts in Hong Kong through the rearing and fostering programme.
+      
+      In 2018, OPCFHK launched the "No Straw Campaign" to further encourage a reduction in the use of disposable straws and other plastics in Hong Kong, taking a significant step towards helping to safeguard our marine eco-system.
+    </Desc>
+    <Year>1995</Year>
+    <Website>https://www.opcf.org.hk</Website>
+    <Email>opcf@oceanpark.com.hk</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - OPCF.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - OPCF.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>HKSEDS</Name>
+    <Desc>
+      HKSEDS was established on January 11, 2012 as a registered non-profit organization in Hong Kong. Our main focus is breeding and training Seeing Eye Dog in Hong Kong and provide the well-trained Seeing Eye Dog to suitable visually impaired people for free. 
+      
+      We provide match training and follow up services to support visually impaired people. We also promote Seeing Eye Dog protection and prevent abandonment and mistreatment of the dogs after match.
+      
+      To localize and sustain Seeing Eye Dog Services in Hong Kong for visually impaired people, HKSEDS focus on training local trainers to make this professions rooted in Hong Kong.
+      
+      Through our services, we hope to enhance the atmosphere of social caring, and to nurture the concept of animal protection. Additionally, we would like to empower Hong Kong people to pay more attention to socially vulnerable groups and understand the needs of the physically or mentally impaired communities.
+    </Desc>
+    <Year>2012</Year>
+    <Website>www.seeingeyedog.org.hk</Website>
+    <Email>services@seeingeyedog.org.hk</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - HKSEDS.png</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - HKSEDS.jpeg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>HK PHAB</Name>
+    <Desc>
+      Hong Kong PHAB Association was established in 1972, is a non-governmental organization subvented by Social Welfare Department. 
+      
+      Our mission is to promote the PHAB concept, which is to enable persons with and without disabilities of all ages to participate in all kinds of social, recreational, developmental, educational, training, employment and community support service for better cooperation and integration in a barrier-free environment.
+    </Desc>
+    <Year>1972</Year>
+    <Website>http://www.hkphab.org.hk/</Website>
+    <Email>hq@hkphab.org.hk</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - HKPHAB.png</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - HKPHAB.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>LAP HK</Name>
+    <Desc>
+    LAP Lifelong Animal Protection Charity exists to help animals in Hong Kong and to bring about the conditions whereby every animal has a good home.
+
+    LAP IS A REGISTERED CHARITY IN HONG KONG. MONETARY DONATIONS ARE TAX-DEDUCTABLE.
+
+    Charity License No.	91/7065
+    Account Name	Lifelong Animal Protection Charity Ltd
+    Bank Account No.	(HSBC) 400-399978-838
+
+    Our dog adoption center is located at Allway Gardens Block E, 187 Tsuen King Circuit, Tsuen Wan, while our cat adoption center is located at 11 First Street, Sai Ying Pun.
+    </Desc>
+    <Year>2015</Year>
+    <Website>www.lap.org.hk</Website>
+    <Email>Yvonne@lap.org.hk</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - LAPHK.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - LAPHK.jpg</ShowCaseImage1>
+  </Charity>
+
+  <Charity>
+    <Name>Paws United</Name>
+    <Desc>
+      Paws United Charity is a charitable organization created by a group of dedicated volunteers who have extensive experience working in animal welfare. Over the years, we have had a steady success rate in rehoming over 500 animals per year.
+
+      Paws United aims to rescue, rehabilitate, and permanently re-home even more animals in Hong Kong.
+
+      Our dream is to eventually build a safe half-way home for homeless animals in need. And in order to reach our goal, we are working to raise enough funds through charitable events, collaborations with like-minded partners and generous sponsors like you.
+
+      So join us on this journey – donate through Coin Dragon and support our work.
+    </Desc>
+    <Year>2018</Year>
+    <Website>www.pawsunited.org.hk</Website>
+    <Email>hello@pawsunited.org.hk</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - PU.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - PU.jpg</ShowCaseImage1>
+  </Charity>
+
+  <Charity>
+    <Name>AIDS Concern</Name>
+    <Desc>
+      AIDS CONCERN was established in 1990 as the first nongovernment charity organisation committed to the service of AIDS care in Hong Kong. Our vision is to create ‘TRIPLE ZERO’ Hong Kong. This means ZERO new HIV infections, ZERO stigma for people living with HIV and ZERO AIDS deaths. AIDS Concern will lead social change by individuals, organisations and society to achieve TRIPLE ZERO, to stop the spread of HIV/AIDS and eliminate stigma for people living with HIV.
+
+      Current 5-Year Strategic Direction (2014-2019):
+      • Deliver HIV education and prevention targeting the people at highest risk
+      • Provide support for people living with HIV in Hong Kong
+      • Build partnerships and capacity for an effective HIV response
+      • Create public advocacy on HIV
+
+    </Desc>
+    <Year>1990</Year>
+    <Website>www.aidsconcern.org.hk</Website>
+    <Email>ac_donor@aidsconcern.org.hk</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - AIDSConcern.png</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - AIDSConcern.jpg</ShowCaseImage1>
+  </Charity>
+  
+  <Charity>
+    <Name>InspiringHK</Name>
+    <Desc>
+      InspiringHK Sports Foundation is a local charity established in 2012, with a vision of developing better youths through sports. 
+      
+      Our mission is to promote social mobility, gender equality, social inclusion and healthy lifestyle through sports. We carry out our mission through professional sports training, learning experience activities and advocacy activities.
+    </Desc>
+    <Year>2012</Year>
+    <Website>http://inspiringhk.org/#/</Website>
+    <Email>vickiechan@inspiringhk.org</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - InspiringHK.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - InspiringHK.jpg</ShowCaseImage1>
+  </Charity>
+
+  <Charity>
+    <Name>Society for Abandoned Animals</Name>
+    <Desc>
+      Society for Abandoned Animals (SAA) was established on June 4, 1997 by a group of animal welfare activist. The motto of SAA is "Love Animal, Respect Life, No Killing or Abandoning". It was officially registered as a local charitable organization on May 28, 1998.
+      
+      There are currently around 300 animals staying in our shelter.  Regardless of the fact that they are abandoned, physically impaired, senile or unhealthy, SAA always strives to rehome all of our animals and if we have to, we will take care of them until the end of their lives.  
+      
+      Literally “Never Kill Never Abandon”!  Every successful adoption brings us so much joy and impels us towards our goal of helping more abandoned animals.
+    </Desc>
+    <Year>1997</Year>
+    <Website>https://saa.org.hk/</Website>
+    <Email>saa@saa.org.hk</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - SAA.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - SAA.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>Liberty</Name>
+    <Desc>
+      Liberty aims to prevent human trafficking through legal advocacy, technological interventions, and strategic collaborations with NGOs, corporations, and financial institutions in Southeast Asia.
+
+      Liberty:
+      • Facilitates the sharing of information, expertise, data, and best practices with anti-trafficking stakeholders through online platforms;
+      • Gathers and channels intelligence on slavery to the private sector;
+      • Champions legal reform and improves the understanding of victim identification, protection, and procedures;
+      • Builds a stable communications backbone for Asia hotlines to scale up their capacity to support more victims and returnees; and
+      • Provides slavery education and training to enact change in all sectors of society.
+    </Desc>
+    <Year>2011</Year>
+    <Website>libertasia.org</Website>
+    <Email>contact@libertasia.org</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - Main.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - Main.jpg</ShowCaseImage1>
+  </Charity>
+
+  <Charity>
+    <Name>Enrich</Name>
+    <Desc>
+      Enrich is the leading Hong Kong charity providing financial and empowerment education for migrant domestic workers, equipping women with the skills and tools to save, budget, and plan for greater financial security.
+
+      We envisage a world in which migrant domestic workers in Hong Kong are empowered and financially capable, achieving their life goals and creating positive long-term impact for themselves, their families and the communities.
+    </Desc>
+    <Year>2007</Year>
+    <Website>www.hkdr.com</Website>
+    <Email>info@hkdr.com</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - Enrich.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - Enrich.jpg</ShowCaseImage1>
+  </Charity>
+</Charities>

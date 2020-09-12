@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Banks>
+  <Bank>
+    <Name>HSBC</Name>
+    <Image>..\..\Resources\Images\LOGO - HSBC.jpg</Image>
+    <Prefix>004</Prefix>
+  </Bank>
+  <Bank>
+    <Name>HangSeng</Name>
+    <Image>..\..\Resources\Images\LOGO - Hang Seng.jpg</Image>
+    <Prefix>024</Prefix>
+  </Bank>
+  <Bank>
+    <Name>BOC</Name>
+    <Image>..\..\Resources\Images\LOGO - Bank Of China.jpg</Image>
+    <Prefix>012,014,019,026,030,031,033,036,064,070</Prefix>
+  </Bank>
+  <Bank>
+    <Name>StandardChartered</Name>
+    <Image>..\..\Resources\Images\LOGO - Standard Chartered.jpg</Image>
+    <Prefix>003</Prefix>
+  </Bank>
+  <Bank>
+    <Name>DBS</Name>
+    <Image>..\..\Resources\Images\LOGO - DBS.jpg</Image>
+    <Prefix>016</Prefix>
+  </Bank>
+  <Bank>
+    <Name>BEA</Name>
+    <Image>..\..\Resources\Images\LOGO - BEA.jpg</Image>
+    <Prefix>015</Prefix>
+  </Bank>
+  <Bank>
+    <Name>Fubon</Name>
+    <Image>..\..\Resources\Images\LOGO - Fubon.jpg</Image>
+    <Prefix>128</Prefix>
+  </Bank>
+  <Bank>
+    <Name>China CITIC</Name>
+    <Image>..\..\Resources\Images\LOGO - China Citic.jpg</Image>
+    <Prefix>018</Prefix>
+  </Bank>
+  <Bank>
+    <Name>DahSing</Name>
+    <Image>..\..\Resources\Images\LOGO - Dah Sing.jpg</Image>
+    <Prefix>040</Prefix>
+  </Bank>
+</Banks>

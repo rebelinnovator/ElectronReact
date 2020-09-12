@@ -1,0 +1,243 @@
+.bgRed{
+  background-color: red !important;
+}
+.bgBlack{
+  background-color: black !important;
+}
+.bgWhite{
+  background-color: white !important;
+}
+.bgYellow{
+  background-color: yellow !important;
+}
+.bgGrey{
+  background-color: lightgrey !important;
+}
+.bgOrange{
+  background-color: orange !important;
+}
+.bgSteelBlue{
+  background-color: steelblue !important;
+}
+
+.black{
+  color: black !important;
+}
+.chartreuse{
+  color: chartreuse !important;
+}
+.font60{
+  font-size: 60px !important;
+}
+
+.font40{
+  font-size: 40px !important;
+}
+
+.font36{
+  font-size: 36px !important;
+}
+
+.font24{
+  font-size: 24px !important;
+}
+
+.font20{
+  font-size: 20px !important;
+}
+
+.font16{
+  font-size: 16px !important;
+}
+.pt50{
+  padding-top: 50px;
+}
+
+.pt100{
+  padding-top: 100px;
+}
+
+.height50{
+  height: 50px !important;
+}
+.height130{
+  height: 130px !important;
+}
+
+.height100{
+  height: 100px !important;
+}
+
+.width100{
+  width: 100px !important;
+}
+
+.width70{
+  width: 70px !important;
+}
+
+.disable{
+  opacity: 0.2;
+  cursor: auto;
+  pointer-events: none;
+}
+.borderBlack5{
+  border: 5px solid black !important;
+}
+
+.topBar{
+  height: 100px !important;
+}
+
+.footer{
+  height: 100px !important;
+}
+
+.barImg{
+    width: 80px;
+    height: 80px;
+}
+
+.cashNoteBanner{
+  margin: 5px;
+}
+
+.content{
+  height: 529px !important;
+}
+
+.wrapper{
+  padding: 10px 30px 10px 30px;
+}
+
+.htmlContent{
+  height: 489px !important;
+}
+
+.overflow{
+  overflow: auto !important;
+}
+
+.pointer{
+  cursor: pointer;
+}
+
+.optImg{
+  height: 80px !important;
+}
+
+.charityPollContent{
+  max-height: 510px !important;
+}
+
+.charityPollImg{
+  max-height: 590px !important;
+}
+
+.countLogo{
+  width: 300px !important;
+  height: 300px !important;
+}
+
+.TNGQR{
+  height: 350px !important;
+}
+
+.width400{
+  width: 400px !important;
+}
+
+.height579{
+  height: 579px !important;
+}
+.checkout{
+  height: 629px;
+}
+.checkoutFrame{
+  margin-top: -550px !important;
+}
+.checkoutContent{
+  height: 500px !important;
+}
+
+.checkoutLogo{
+  width: 50px !important;
+  height: 50px !important;
+}
+
+.optopusError{
+  height: 290px !important;
+}
+.optopusMsg{
+  height: 210px !important;
+}
+.octopusOpen{
+  margin-top: 220px !important;
+}
+
+.borderWhite5{
+  border: 5px solid white !important;
+
+}
+.borderRadius{
+  border-radius: 15px !important;
+}
+.staticLogo{
+  width: 120px !important;
+  height: 120px !important;
+}
+
+.HelpHtmlContent{
+  height: 430px;
+}
+
+.adminBtn{
+  padding: 7px 0 7px 0 !important;
+}
+
+.qrImg{
+  width: 300px !important;
+  height: 130px !important;
+}
+
+.adminItem1{
+  flex-basis: 25%;
+  max-width: 25%;
+}
+.adminItem2{
+  flex-basis: 45%;
+  max-width: 45%;
+}
+.adminItem3{
+  flex-basis: 30%;
+  max-width: 30%;
+}
+.adminContent{
+  height: 609px !important;
+}
+
+.countAnimate{
+  transition: all 1000s ease-in-out;
+}
+
+.coinImg{
+  fill: white !important;
+}
+
+.tuneVal{
+  margin-left: -150px;
+}
+
+.tuneImg{
+  margin-right: 200px;
+}
+
+.justLabel1{
+  word-wrap: break-word !important;
+  white-space: pre !important;
+}
+
+.justLabel2{
+  word-wrap: break-word !important;
+  white-space: pre-wrap !important;
+}

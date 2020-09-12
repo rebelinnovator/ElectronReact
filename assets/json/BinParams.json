@@ -1,0 +1,17 @@
+{
+  "T_BinCode_L"    : "B20190901-88881",
+  "T_BinCode_R"    : "B20190901-88882",
+  "T_BinStatus_L"  : "",
+  "T_BinStatus_R"  : "",
+  "T_BinCount_L"   : 0,
+  "T_BinCount_R"   : 0,
+  "T_BinValue_L"   : 0.0,
+  "T_BinValue_R"   : 0.0,
+  "T_BinWeight_L"  : 0.0,
+  "T_BinWeight_R"  : 0.0,
+  "T_BinVolume_L"  : 0,
+  "T_BinVolume_R"  : 0,
+  "T_BinGauge_L"   : 0.0,
+  "T_BinGauge_R"   : 0.0,
+  "T_MachineLimit" : "" 
+}

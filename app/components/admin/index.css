@@ -1,0 +1,30 @@
+.title{
+  color: orange;
+  font-weight: bolder;
+  font-size: 18px;
+  margin: 8px 8px 0 8px;
+}
+.firstCol{
+  color: black;
+  vertical-align: middle !important
+}
+.secondCol{
+color: white ;
+vertical-align: middle !important
+}
+.imgDiv{
+  border: 2px solid blue;
+  margin: 0 8px 0 0;
+  padding: 2px;
+  height: 120px;
+}
+.imgTd{
+  vertical-align: middle;
+  padding: 10px !important;
+}
+
+.formControl{
+  margin: 10px;
+  min-width: 120px;
+  background-color: white;
+}

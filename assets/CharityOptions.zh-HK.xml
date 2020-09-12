@@ -1,0 +1,479 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Charities>
+  <Charity>
+    <Name>HKDR</Name>
+    <Desc>
+      救狗之家的成立目的是拯救漁護署狗房中即將被人道毀滅的被遺棄狗隻，由2003年起已經照顧並成功為超過7900隻狗找到領養家庭。
+      
+      機構設有兩個全年開放的領養中心，目前正照顧超過600年待領養狗隻。
+      
+      救狗之家承諾對所有待領養狗隻不殺不棄，永遠照顧直至狗隻找到領養家庭。
+    </Desc>
+    <Year>2003</Year>
+    <Website>hongkondogrescue.com</Website>
+    <Email>info@hongkongdogrescue.com</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - HKDR.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - HKDR.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>HKFP</Name>
+    <Desc>
+      Hong Kong Free Press 為一家非牟利﹑容納對香港及國際新聞批判聲音的英文媒體。HKFP由記者營運﹑獨立自主﹑濟弱扶傾。
+      
+      HKFP專注獨立報道﹑專題及訪問，誕生在對新聞自由關注日益上揚的時候。我們無畏無懼﹑不偏不倚，只依賴讀者支持。
+    </Desc>
+    <Year>2015</Year>
+    <Website>www.hongkongfp.com</Website>
+    <Email>info@hongkongfp.com</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - HKFP.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - HKFP.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>ImpactHK</Name>
+    <Desc>
+      ImpactHK是香港一家為露宿者及無家可歸者提供服務的註冊慈善機構。
+      
+      ImpactHK每日都在街頭為無家可歸者提供服務，希望建立互信和友誼。
+      
+      ImpactHK為露宿者及無家可歸者提供短期免費宿位，僱用並提供機會重新融入社會。
+    </Desc>
+    <Year>2017</Year>
+    <Website>impacthk.org</Website>
+    <Email>hello@impacthk.org</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - ImpactHK.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - ImpactHK.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>ChickenSoup</Name>
+    <Desc>
+      心靈雞湯兒童基金」是一個私營慈善機構，針對香港最缺乏資源的基層兒童及青少年提供三大服務：緊急家庭支援、教育以及個人發展（體育、音樂和藝術）。
+      
+      本基金積極與不同私人機構合作（如企業、學校、慈善基金、商業公司、慈善機構等），致力為香港各區帶來持久的社會效益。
+      
+      目前服務點涵蓋香港12區份，包括天水圍、屯門、東涌、青衣、上灣、荃灣、葵涌、荔景、長沙灣、深水埗、九龍城、九龍灣、將軍澳及柴灣。
+    </Desc>
+    <Year>2013</Year>
+    <Website>www.chickensoupfoundation.com</Website>
+    <Email>manager@chickensoupfoundation.org</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - ChickenSoup.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - ChickenSoup.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>The Green Earth</Name>
+    <Desc>
+      「綠惜地球」是本地慈善環保團體。使命透過教育、動員公眾，致力激發社會的綠色正能量、倡導珍惜資源和零浪費的文化，並推動香港成為人人引以自豪的綠色城市。
+      
+      「綠惜」，是我們的核心價值。我們著重多元化介入，與大家在地同行，讓每個人和機構都能發揮其綠色公民角色，促進可持續的生活環境。
+      
+       我們是全自負盈虧的非牟利團體，並無政府資助，全賴向公眾募款以支持綠惜工作。
+      
+      「綠惜地球」期待有你同行。
+    </Desc>
+    <Year>2016</Year>
+    <Website>http://greenearth.org.hk</Website>
+    <Email> info@greenearth.org.hk </Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - TheGreenEarth.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - TheGreenEarth.jpg</ShowCaseImage1>
+  </Charity>
+
+  <Charity>
+    <Name>UNICEF</Name>
+    <Desc>
+      關於聯合國兒童基金會
+      
+      聯合國兒童基金會（UNICEF）在全球最具挑戰的地方接觸最脆弱的兒童及青少年，同時守護不論身處何地、全球每一名兒童的權利。我們在190個國家及地區以一切可行方式協助兒童生存、發展及盡展潛能，工作貫穿兒童的成長期。
+
+      我們永不停步。
+
+      關於聯合國兒童基金香港委員會
+
+      聯合國兒童基金香港委員會（UNICEF HK）成立於1986年，是一個獨立的本地非政府組織，主要透過向公眾籌募捐款、與私人機構建立夥伴關係、籌辦特別活動等不同途徑，支持聯合國兒童基金會的工作。UNICEF HK同時亦藉着在港舉辦各項教育和青少年計劃，向公眾宣揚及倡議兒童權利。
+
+      UNICEF HK所有善款均來自個人及企業捐獻，我們並無接受香港特別行政區政府捐款。
+    </Desc>
+    <Year>1946</Year>
+    <Website>https://www.unicef.org.hk/</Website>
+    <Email> info@unicef.org.hk </Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - UNICEF.png</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - UNICEF.jpg</ShowCaseImage1>
+  </Charity>
+
+
+  <Charity>
+    <Name>HER Fund</Name>
+    <Desc>
+      HER Fund是全港唯一以撥款及能力培訓推動性別平等的民間基金會，一直致力改善社會環境以消除性別歧視，維護邊緣女性的人權。
+      
+      我們致力籌集資源消除歧視、性別暴力、貧窮，及推動女性公民參與。
+      
+      我們的小額撥款，發揮種子基金的作用，讓與性別平等有關的新工作項目能夠萌芽、發展及推動社會改變，從而改善邊緣女性的處境。
+      
+      自2004年起，在不同捐款者的支持下，我們合共資助了超過140個撥款項目(合計超過港幣550萬) 予60個女性及基層組織。
+    </Desc>
+    <Year>2004</Year>
+    <Website>www.hefund.org.hk</Website>
+    <Email>info@herfund.org.hk</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - HER Fund.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - HerFund.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>SRDC</Name>
+    <Desc>香港弱能兒童護助會於一九五三年成立，秉承一貫宗旨，為香港弱能兒童提供醫療、外科手術、復康及教育服務。我們相信每個弱能兒童都有權追求快樂而充實的生活。我們將傾力相助，讓他們能茁壯成長，充實生命，從而發揮潛力、貢獻社會。</Desc>
+    <Year>1953</Year>
+    <Website>www.srdc.org.hk</Website>
+    <Email>event@srdc.org.hk</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - SRDC.JPG</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - SRDC.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>SPCA</Name>
+    <Desc>
+      香港愛護動物協會自1921年起，協會一直在不同層面的工作上守護動物福利。
+      
+      亦是本港其中一間兼顧動物福利各方面的民間慈善團體，但我們的營運經費中，只有1%來自政府資助，其餘99%全是透過市民大眾的捐款及支持來維持。
+      
+      在過去一年，協會接收或拯救逾3,500隻動物及為2,600隻動物找到領養家庭。
+      
+      有你的參與及支持，我們才能在社區繼續推行上述重要的動物 福利發展工作。
+    </Desc>
+    <Year>1903</Year>
+    <Website>www.spca.org.hk</Website>
+    <Email>info@spca.hk</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - SPCA.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - SPCA.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+
+    <Name>Yan Chai Hospital</Name>
+    <Desc>仁濟醫院董事局成立於1962年，發展至今已成為香港六大慈善機構之一，我們現有超過4,500名員工，提供全方位服務，在香港擁有超過90個服務單位。</Desc>
+    <Year>1962</Year>
+    <Website>www.yanchai.org.hk</Website>
+    <Email>corpcom@yanchai.org</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - YanChaiHospital.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - YanChai.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>Lifewire</Name>
+    <Desc>
+      香港首個以病童為主的慈善眾籌平台，重點支持罕見病病童及嚴重病患個案；除為個案籌募醫療經費，更希望喚醒大眾對罕見病的關注，支持病患者克服生命中每個挑戰。
+      
+      如何幫助：
+      • 捐款
+      • 參與義工活動
+      • 自創籌募活動
+      • 社交平台分享
+    </Desc>
+    <Year>2014</Year>
+    <Website>www.lifewire.hk</Website>
+    <Email>info@lifewire.hk</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - LIFEWIRE.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - LIFEWIRE TCH.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>Eye Fund</Name>
+    <Desc>
+      眼睛健康基金 Eye Fund（註冊號碼：91/8616) 肩負服務社會的責任，致力將「防盲、治盲、除盲」的訊息散佈到社區不同的層面，並向市民大眾傳遞專業及正確的眼科護理資訊，改變對眼科手術治療的誤解及恐懼。
+      
+      我們的服務對象是關注眼睛健康的人士。透過與社區組織合作，定期舉行健康教育和展覽，提升市民大眾對眼睛健康的關注。
+    </Desc>
+    <Year>2007</Year>
+    <Website>www.eye-fund.org</Website>
+    <Email>info@eye-fund.org</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - EYEFUND_WHITE.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - EyeFund.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>Make A Wish</Name>
+    <Desc>
+      願望成真基金於1998年在香港註冊為慈善團體 (認可註冊編號：91/5366) 並成為國際願望成真基金會員之一。
+
+      我們旨在為居於香港及澳門、三至十七歲並患有重病的兒童創造改寫生命的願望，透過願望成真的體驗令他們的人生充滿希望、力量及快樂，至今已有近2,000位願望童的生命因此而改變。
+
+      我們致力為每位合資格申請的兒童實現願望。
+    </Desc>
+    <Year>1998</Year>
+    <Website>https://makeawish.org.hk/</Website>
+    <Email>info@makeawish.org.hk</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - MAW.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - MAW.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>Lok Sin Tong</Name>
+    <Desc>
+      九龍樂善堂創立於1880年，以「救災紓困、贈醫施藥、興學育才、安老培幼」為宗旨。目前轄屬單位逾50個，遍佈港九新界，致力為公眾提供全面及優質的醫療、教育、安老及社會福利服務。
+
+      除了推動社會服務，「樂善關懷基金」為遭逢突發意外或受災難事故影響，而出現即時經濟困難的人士及其家庭，提供一次性緊急撥款，以助他們解決燃眉之急。
+
+      基金自成立以來，已撥款援助逾1,100宗個案，當中包括：馬頭圍塌樓事故災民、馬尼拉人質事件家屬、牛頭角迷你倉大火殉職消防員遺屬、大埔公路巴士車禍受影響家庭，以及多個因工業傷亡事故而遭受影響的人士及其家屬等。
+
+      「能夠施予，就是幸福」
+      您捐出的每一分一毫都猶如「及時雨」，請即行動，與有需要人士分享幸福，樂善同行。
+    </Desc>
+    <Year>1880</Year>
+    <Website>https://www.loksintong.org/</Website>
+    <Email>donation@loksintong.org</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - LOKSINTONG.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - LOKSINTONG.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>Rehab Life</Name>
+    <Desc>
+      【復康生命】成立於2017年7月，由慈善機構「果園社企」創辦人因過往經歷，發現社會上存在相關問題而成立，為香港特區政府註冊的認可慈善機構，牌照編號：91/15654。經過一年多時間的運作測試，更得到關注社會上基層輪椅使用者的志願朋友加入，並且優化整合過程，於2018年11月正式啟動服務。
+      
+      【復康生命】職務專責是為基層輪椅使用者，提供「復康任務」專車，為他們設置一個無障礙平台，提供免費接送醫院非緊急複診服務。
+ 
+      抱負
+      
+      志力回饋社會，協助社會基層輪椅使用者，提供適切之免費接送醫院複診服務，達致協助行動不便、殘疾及中風人士全面融入，參與各社區活動，從而令他們重拾尊嚴及自信，雖然行動不便但仍可有精彩人生。及後立志惠澤社會基層，拓展「復康任務」專車至香港每一區。
+      宗旨及理念
+      1. 服務對象主要為社會基層的輪椅使用者；
+      2. 建基於可持續概念，為輪椅使用者提供適切、優質服務；
+      3. 鼓勵行動不便人士多參與社區活動，令他們重拾精彩人生。
+
+    </Desc>
+    <Year>2017</Year>
+    <Website>www.rehablife.org.hk</Website>
+    <Email>rehablifehk@gmail.com</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - RehabLife.png</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - RehabLife.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>Fruit Garden</Name>
+    <Desc>
+      果園社企是香港認可的非牟利團體，成立於2013年底，致力拯救被遺棄毛孩，在過去六年間，救助超過600隻毛孩尋到愛心的家, 爭取動物權益，提供暫時居所，安排領養讓牠們最終能有一個真正而温暖的家。
+      
+      在救助毛孩的同時, 亦為社會上優先聘用弱勢社群人士，令社會減少家庭問題，讓他們重拾自信，重投社會服務。
+    </Desc>
+    <Year>2013</Year>
+    <Website>www.fgse.org.hk</Website>
+    <Email>fruitgardense@gmail.com</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - FruitGarden.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - FruitGarden.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>Aide et Action</Name>
+    <Desc>
+      愛達迅(AEA)是一個倡導「全民教育」的國際慈善組織，致力為因貧窮、性別、種族、殘障而被邊緣化、歧視的兒童及弱勢人士，提供有質素的教育，並維護他們的人權，確保他們能有尊嚴地讀書、成長、工作及改善生計。
+      
+      本會沒有任何政治或宗教背景，一直保持中立，只要任何地方需要我們救助的，都會積極參與介入，以人道利益為先。
+    </Desc>
+    <Year>1981</Year>
+    <Website>www.aeahk.org.hk</Website>
+    <Email>info-hongkong@aide-et-action.org</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - AEA TCH.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - AEA.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>Against Child Abuse</Name>
+    <Desc>
+      防止虐待兒童會於1979年成立，是本地一間專門提供全面保護兒童服務的慈善機構，致力消除各種虐待兒童事件，為促進兒童全面成長及發展，推廣一個關懷及無暴力的環境。
+
+      為達致上述目標，本會提供優質預防、危機介入及治療服務，並倡議及推動兒童福祉。
+    </Desc>
+    <Year>1979</Year>
+    <Website>www.aca.org.hk</Website>
+    <Email>donate@aca.org.hk</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - ACA.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - ACA ENG.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>Chinese YMCA</Name>
+    <Desc>
+      香港中華基督教青年會是全球基督教青年會運動的一員，又為一建基香港之基督教服務組織。
+      
+      本會在憲章中訂明的宗旨和目的「是按照耶穌基督的教訓，在青年人中，培養基督的品格，和建立基督服務的精神」。
+      
+      由本會建立的「愛‧實現」計劃，期望提供一個配對平台，一方面收集弱勢社群夢想，另一方面匯集各界資源，然後進行配對，將資源直接用於幫助弱勢社群達成夢想。
+    </Desc>
+    <Year>1901</Year>
+    <Website> http://www.ymca.org.hk/en </Website>
+    <Email> realiselove@ymca.org.hk </Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - YMCA.png</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - YMCA.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>Christian Action</Name>
+    <Desc>本會成立於1985年，使命是幫助貧困、弱勢、被邊緣化和流離失所的社群，不論其年齡、性別、國籍及宗教信仰，旨在帶給他們希望、尊嚴及自立能力。
+    
+    服務對象：基層家庭、少數族裔、難民、外籍傭工及青海孤兒，並營運社會企業。</Desc>
+    <Year>1985</Year>
+    <Website>http://www.christian-action.org.hk</Website>
+    <Email>donor@christian-action.org.hk</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - Christian Action.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - ChristianAction.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>Hong Kong Blind Union</Name>
+    <Desc>香港失明人協進會成立於1964年，是香港首個由視障人士組織及管理之自助團體，致力發揮視障人士的自助及互助精神，宗旨是實現視障人士的平等、機會和獨立。</Desc>
+    <Year>1964</Year>
+    <Website>www.hkbu.org.hk</Website>
+    <Email>info@hkbu.org.hk</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - HKBU.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - HKBU.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>OPCF</Name>
+    <Desc>
+      香港海洋公園保育基金致力提倡促進及參與亞洲區內務實有效的野生生態保育工作。自2005年擴展以來，已撥款資助超過500項研究，包括於亞洲之鯨豚、大熊貓及其他物種。2006年成立的「鯨豚擱淺行動組」亦一直在運作中。
+
+      保育基金亦繼續透過「野外生態保育大學生贊助計劃」，啟迪大學生參與野外研究工作，而「馬蹄蟹保母計劃」則為中學生及企業員工提供參與本地馬蹄蟹保育工作的機會。
+
+      2018年推出「無飲管運動」，以更廣泛及持續的方式鼓勵全港市民減用即棄塑膠飲管，以至其他一次性塑膠製品，為保育海洋生態踏出重要一步。
+    </Desc>
+    <Year>1995</Year>
+    <Website>https://www.opcf.org.hk</Website>
+    <Email>opcf@oceanpark.com.hk</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - OPCF.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - OPCF.jpg</ShowCaseImage1>
+  </Charity>  
+  
+  <Charity>
+    <Name>HKSEDS</Name>
+    <Desc>
+      本中心於2012年1月11日成立，並於同年註冊成為香港政府認可的慈善機構。
+      
+      專門提供導盲犬的培育和訓練，以及將培訓成功的犬隻免費提供予有需要而且合適的視障人士使用；並會進行配對訓練及提供日後的跟進服務，以支援視障人士；同時，推廣保護導盲犬及防止配對後被遺棄或虐待的機會。
+      
+      本中心將培訓本地導盲犬訓練員和導師，以延續此項服務，希望能薪火相傳，最終使這項服務本地化。
+      
+      本中心希望藉着推廣導盲犬，可以增進社會互助精神及愛護動物之風氣，促進港人對弱勢社群的重視及瞭解身心障礙者的需求。
+    </Desc>
+    <Year>2012</Year>
+    <Website>www.seeingeyedog.org.hk</Website>
+    <Email>services@seeingeyedog.org.hk</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - HKSEDS.png</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - HKSEDS.jpeg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>HK PHAB</Name>
+    <Desc>
+      香港傷健協會於 1972 年成立，為一間由社會福利署津助的一非牟利機構。
+      
+      協會致力推動「傷健共融」的理念，務求 使不同年紀的傷殘及健全人士，都能夠在無障礙環境下，並肩參與各項社交、康樂、發展、教育、訓練、就業及社區支援服務，藉以增進兩者之合作及融合。
+    </Desc>
+    <Year>1972</Year>
+    <Website>http://www.hkphab.org.hk/</Website>
+    <Email>hq@hkphab.org.hk</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - HKPHAB.png</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - HKPHAB.jpg</ShowCaseImage1>
+  </Charity>
+  
+  <Charity>
+
+    <Name>LAP HK</Name>
+    <Desc>
+      LAP Lifelong Animal Protection Charity exists to help animals in Hong Kong and to bring about the conditions whereby every animal has a good home.
+
+      LAP IS A REGISTERED CHARITY IN HONG KONG. MONETARY DONATIONS ARE TAX-DEDUCTABLE.
+
+      Charity License No.	91/7065 
+      Account Name	Lifelong Animal Protection Charity Ltd
+      Bank Account No.	(HSBC) 400-399978-838
+      
+      Our dog adoption center is located at Allway Gardens Block E, 187 Tsuen King Circuit, Tsuen Wan, while our cat adoption center is located at 11 First Street, Sai Ying Pun.
+    </Desc>
+    <Year>2015</Year>
+    <Website>www.lap.org.hk</Website>
+    <Email>Yvonne@lap.org.hk</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - LAPHK.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - LAPHK.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+
+    <Name>Paws United</Name>
+    <Desc>
+      Paws United Charity 是一個新成立的慈善機構，由一群經驗豐富，而且盡心盡力為動物爭取福利的義工創辦。
+      
+      這些年來，我們每年至少為500隻動物覓得領養家庭。
+      
+      我們為所有被拯救的動物提供治療，同時為牠們尋覓永久的領養家庭。
+      
+      我們的目標是為有需要的動物建設一個安全的中途之家。我們透過舉辦活動，並與志同道合的夥伴合作，籌募善款。
+      
+      歡迎你加入我們的旅程
+    </Desc>
+    <Year>2018</Year>
+    <Website>www.pawsunited.org.hk</Website>
+    <Email>hello@pawsunited.org.hk</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - PU.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - PU.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>AIDS Concern</Name>
+    <Desc>
+      「關懷愛滋」成立於1990年，是本港首個關注愛滋病及提供有關服務的非政府慈善組織。
+      
+      我們的願景是在香港建設「三零」社會：零新感染、零標籤及零愛滋病相關死亡。我們將從個人、機構、社會層面出發，帶動全面的社會改變，達致「三零目標」，阻遏愛滋病病毒傳播，消除社會對感染者的負面標籤。
+      
+      五年發展策略(2014-2019) ：
+      • 為高風險社群提供愛滋病預防及教育服務
+      • 支援本港愛滋病病毒感染者
+      • 建立伙伴網絡有效回應愛滋病疫情
+      • 推動愛滋病相關的政策倡議
+    </Desc>
+    <Year>1990</Year>
+    <Website>www.aidsconcern.org.hk</Website>
+    <Email>ac_donor@aidsconcern.org.hk</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - AIDSConcern.png</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - AIDSConcern.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>InspiringHK</Name>
+    <Desc>
+      凝動香港體育基金是根據《稅務條例》第88條獲豁免繳稅的慈善團體，於 2012 年成立，一直秉承「以體育造就青年」的願景，致力透過體育提升基層青年的社會流動力，並同時宣揚性別平等、社會共融和健康生活。
+      
+      本會通過體育訓練項目、學習經歷活動和運動倡議工作三大範疇來履行使命。
+    </Desc>
+    <Year>2012</Year>
+    <Website>http://inspiringhk.org/#/</Website>
+    <Email>vickiechan@inspiringhk.org</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - InspiringHK.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - InspiringHK.jpg</ShowCaseImage1>
+  </Charity>
+
+  <Charity>
+    <Name>Society for Abandoned Animals</Name>
+    <Desc>
+      保護遺棄動物協會(簡稱SAA) 是由一群關注動物權益和動物福利的人士於1997年6月4日創辦，以 「愛護動物‧尊重生命‧不殺不棄」為宗旨，並於1998年5月28日正式註冊成為政府認可的慈善團體。
+
+      現時，會內有大約三百頭動物，即使動物們曾被遺棄、殘缺、年老、抑或生病，SAA都會為牠們找一個家和照顧到終老，不殺不棄！每次動物能夠成功覓得新主人，我們都感到非常歡欣雀躍，這亦是推動我們昂首向前，朝著拯救更多被遺棄動物的其中一個原因。
+    </Desc>
+    <Year>1997</Year>
+    <Website>https://saa.org.hk/</Website>
+    <Email>saa@saa.org.hk</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - SAA.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - SAA.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>Liberty</Name>
+    <Desc>
+      Liberty主要透過法律倡導，資訊科技介入，以及與東南亞各國的非政府機構、企業及財經機構進行策略性合作， 以達防止人口販賣的目的。
+
+      Liberty:
+      • 透過線上平台幫助打擊人口販賣機構分享訊息、專業知識、數據及實際操作典範；
+      • 為商界及私營機構搜集有關現時勞役資訊並提供資訊渠道；
+      • 倡導相關法律改革，提高對受害人的認証、保護及有關程序的了解；
+      • 為亞洲建立穩定資訊熱線，讓他們能夠幫助更多受害者；
+      • 向社會各界提供有關現時勞役的教育及訓練，以改變社會思維
+    </Desc>
+    <Year>2011</Year>
+    <Website>libertasia.org</Website>
+    <Email>contact@libertasia.org</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - Main.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - Main.jpg</ShowCaseImage1>
+  </Charity>
+  <Charity>
+    <Name>Enrich</Name>
+    <Desc>
+      Enrich是香港領先的慈善機構，為外籍家庭傭工（migrant domestic workers）提供金融教育，幫助她們預算以及加強財務安全。
+
+      我們希望有一天，香港的外籍家庭傭工能夠加強自己的財務能力，實現他們的人生目標，並為他們自己，他們的家人和社區創造積極的長期影響。
+    </Desc>
+    <Year>2007</Year>
+    <Website>enrichhk.org</Website>
+    <Email>info@enrichhk.org</Email>
+    <Image>..\..\Resources\Images\Charity\LOGO - Enrich.jpg</Image>
+    <ShowCaseImage1>..\..\Resources\Images\Charity\IMAGE - Enrich.jpg</ShowCaseImage1>
+  </Charity>
+</Charities>
+

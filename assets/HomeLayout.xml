@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Layout xmlns="">
+  <Options>
+    <Option Type="1">
+      <Id>CharityOp</Id>
+      <Title Color="#FFFFFFFF">CHARITABLE DONATION</Title>
+      <Name>DONATION</Name>
+      <Desc Color="#FFFFFFFF"></Desc>
+      <Image>..\Resources\Images\BADGE - Donation.jpg</Image>
+      <Terms Source="/Resources/Htmls/CharityTerms.html">Coin Dragon Charitable Donation - Terms and Use</Terms>
+      <NextPage>..\View\Charity\HomePage.xaml</NextPage>
+    </Option>
+    <Option Type="2">
+      <Id>BankOp</Id>
+      <Title Color="#FFFFFFFF">BANK DEPOSIT</Title>
+      <Name>BANK DEPOSIT</Name>
+      <Desc Color="Green">10% Processing Fee</Desc>
+      <Image>..\Resources\Images\BADGE - Bank.jpg</Image>
+      <Terms Source="/Resources/Htmls/BankTerms.html">Coin Dragon Bank Deposit - Terms and Use</Terms>
+      <NextPage>..\View\Bank\HomePage.xaml</NextPage>
+    </Option>
+    <Option Type="3">
+      <Id>OctoOp</Id>
+      <Title Color="#FF000000"></Title>
+      <Name>OCTOPUS ADD VALUE</Name>
+      <Desc Color="#FFFFFFFF">10% Processing Fee</Desc>
+      <Image>..\Resources\Images\BADGE - Octopus.jpg</Image>
+      <Terms Source="/Resources/Htmls/OctopusTerms.html">Coin Dragon Octopus Add Value Service - Terms and Use</Terms>
+      <NextPage>..\View\Octopus\BalancePage.xaml</NextPage>
+    </Option>
+    <Option Type="4">
+      <Id>TNGOp</Id>
+      <Title Color="#FFFFFFFF"></Title>
+      <Name>TNG ADD VALUE</Name>
+      <Desc Color="#FF00AAEE">10% Processing Fee</Desc>
+      <Image>..\Resources\Images\BADGE - TNG.jpg</Image>
+      <Terms Source="/Resources/Htmls/TNGTerms.html">Coin Dragon TNG Wallet Add Value Service - Terms and Use</Terms>
+      <NextPage>..\View\Count\HomePage.xaml</NextPage>
+    </Option>
+    <Option Type="5">
+      <Id>JousunOp</Id>
+      <Title Color="#FFFFFFFF"></Title>
+      <Name>MERCHANT</Name>
+      <Desc Color="#FFBB0000">e-Voucher - No Fee</Desc>
+      <Image>..\Resources\Images\BADGE - Jousun.jpg</Image>
+      <Terms Source="/Resources/Htmls/JousunTerms.html">Coin Dragon Merchant (Jousun) Gift Card - Terms and Use</Terms>
+      <NextPage>..\View\Count\HomePage.xaml</NextPage>
+    </Option>
+    <Option Type="6">
+      <Id>SBOp</Id>
+      <Title Color="#FFFFFFFF"></Title>
+      <Name>MERCHANT</Name>
+      <Desc Color="#FF366635">eGift Card - 5% Fee</Desc>
+      <Image>..\Resources\Images\BADGE - Starbucks.jpg</Image>
+      <Terms Source="/Resources/Htmls/StarbucksTerms.html">Coin Dragon Merchant Gift Card - Terms and Use</Terms>
+      <NextPage>..\View\Count\HomePage.xaml</NextPage>
+    </Option>
+    <!--
+    <Option Type="7">
+      <Id>HCOp</Id>
+      <Title Color="#FFFFFFFF"></Title>
+      <Name>MERCHANT</Name>
+      <Desc Color="#FFFF6644"></Desc>
+      <Image>..\Resources\Images\BADGE - Heycoins ENG.PNG</Image>
+      <Terms Source="/Resources/Htmls/HCTerms.html">Coin Dragon Merchant Gift Card - Terms and Use</Terms>
+      <NextPage>..\View\Count\HomePage.xaml</NextPage>
+    </Option>
+    -->
+  </Options>
+</Layout>

@@ -1,0 +1,51 @@
+{
+  "HOME": "/",
+  "COUNTER": "/counter",
+  "adminAccess": "/admin/adminAccess",
+  "adminPage": "/admin/adminPage",
+  "binPage": "/admin/binPage",
+  "loading": "/admin/loading",
+  "Idle": "/admin/Idle",
+  "machineFull": "/admin/machineFull",
+  "maintenance": "/admin/maintenance",
+  "tunning": "/admin/tuning",
+
+  "help":"/help/Help",
+  "Octopus":"/help/Octopus",
+  "PIN":"/help/PIN",
+  "FAQ":"/help/FAQ",
+  "Contact":"/help/Contact",
+  "Guide":"/help/Guide",
+  "Policy":"/help/Policy",
+
+  "CharityTerms": "/term/CharityTerms",
+  "BankTerms": "/term/BankTerms",
+  "HCTerms": "/term/HCTerms",
+  "JousunTerms": "/term/JousunTerms",
+  "OctopusTerms": "/term/OctopusTerms",
+  "TNGTerms": "/term/TNGTerms",
+
+  "OctopusOpt": "/opt/OctopusOpt",
+  "BankOpt": "/opt/BankOpt",
+  "CharityOpt": "/opt/CharityOpt",
+  "TNGOpt": "/opt/TNGOpt",
+  "HCOpt": "/opt/HCOpt",
+  "JousunOpt": "/opt/JousunOpt",
+
+  "OctopusPoll":"/poll/OctopusPoll",
+  "BankPoll":"/poll/BankPoll",
+  "CharityPoll": "/poll/CharityPoll",
+  "TNGPoll": "/poll/TNGPoll",
+  "HCPoll": "/poll/HCPoll",
+  "JousunPoll": "/poll/JousunPoll",
+
+  "warn": "/count/warn",
+  "instruct": "/count/instruct",
+  "countMain": "/count/CountMain",
+  "countCash": "/count/CountCash",
+  "retryCoin": "/count/retryCoin",
+
+  "TNGScan": "/checkout/TNGScan",
+  "OctopusScan": "/checkout/OctopusScan",
+  "Checkout": "/checkout/Checkout"
+}

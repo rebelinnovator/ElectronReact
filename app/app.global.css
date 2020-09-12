@@ -1,0 +1,16 @@
+/*
+ * @NOTE: Prepend a `~` to css file paths that are in your node_modules
+ *        See https://github.com/webpack-contrib/sass-loader#imports
+ */
+@import '~@fortawesome/fontawesome-free/css/all.css';
+
+
+table td{
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+table.keyboard td{
+  padding-top: 3px !important;
+  padding-bottom: 3px !important;
+} 

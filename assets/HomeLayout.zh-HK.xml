@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Layout xmlns="">
+  <Options>
+    <Option Type="1">
+      <Id>CharityOp</Id>
+      <Title Color="#FFFFFFFF">慈善捐贈</Title>
+      <Name>慈善捐贈</Name>
+      <Desc Color="#FFFFFFFF"></Desc>
+      <Image>..\Resources\Images\BADGE - Donation.jpg</Image>
+      <Terms Source="/Resources/Htmls/CharityTerms.zh_HK.html">換幣龍慈善捐贈-使用條款</Terms>
+      <NextPage>..\View\Charity\HomePage.xaml</NextPage>
+    </Option>
+    <Option Type="2">
+      <Id>BankOp</Id>
+      <Title Color="#FFFFFFFF">存入銀行賬戶</Title>
+      <Name>存入銀行賬戶</Name>
+      <Desc Color="Green">10% 手續費</Desc>
+      <Image>..\Resources\Images\BADGE - Bank.jpg</Image>
+      <Terms Source="/Resources/Htmls/BankTerms.zh_HK.html">換幣龍存入銀行賬戶-使用條款</Terms>
+      <NextPage>..\View\Bank\HomePage.xaml</NextPage>
+
+    </Option>
+    <Option Type="3">
+      <Id>OctoOp</Id>
+      <Title Color="#FF000000"></Title>
+      <Name>八達通增值</Name>
+      <Desc Color="#FFFFFFFF">10% 手續費</Desc>
+      <Image>..\Resources\Images\BADGE - Octopus.jpg</Image>
+      <Terms Source="/Resources/Htmls/OctopusTerms.zh_HK.html">換幣龍八達通增值服務-使用條款</Terms>
+      <NextPage>..\View\Octopus\BalancePage.xaml</NextPage>
+    </Option>
+    <Option Type="4">
+      <Id>TNGOp</Id>
+      <Title Color="#FFFFFFFF"></Title>
+      <Name>TNG 增值</Name>
+      <Desc Color="#FF00AAEE">10% 手續費</Desc>
+      <Image>..\Resources\Images\BADGE - TNG.jpg</Image>
+      <Terms Source="/Resources/Htmls/TNGTerms.zh_HK.html">換幣龍TNG-使用條款</Terms>
+      <NextPage>..\View\Count\HomePage.xaml</NextPage>
+    </Option>
+    <Option Type="5">
+      <Id>JousunOp</Id>
+      <Title Color="#FFFFFFFF"></Title>
+      <Name>充值禮券</Name>
+      <Desc Color="#FFBB0000">禮券 - 無收費</Desc>
+      <Image>..\Resources\Images\BADGE - Jousun.jpg</Image>
+      <Terms Source="/Resources/Htmls/JousunTerms.zh_HK.html">換幣龍禮券(Jousun)-使用條款</Terms>
+      <NextPage>..\View\Count\HomePage.xaml</NextPage>
+    </Option>
+    <Option Type="6">
+      <Id>SBOp</Id>
+      <Title Color="#FFFFFFFF"></Title>
+      <Name>充值禮券</Name>
+      <Desc Color="#FF366635">禮券 - 5% 手續費</Desc>
+      <Image>..\Resources\Images\BADGE - Starbucks.jpg</Image>
+      <Terms Source="/Resources/Htmls/StarbucksTerms.zh_HK.html">換幣龍充值券-使用條款</Terms>
+      <NextPage>..\View\Count\HomePage.xaml</NextPage>
+    </Option>
+    <!--
+    <Option Type="7">
+      <Id>HCOp</Id>
+      <Title Color="#FFFFFFFF"></Title>
+      <Name>充值禮券</Name>
+      <Desc Color="#FFFF6644"></Desc>
+      <Image>..\Resources\Images\BADGE - Heycoins TCH.PNG</Image>
+      <Terms Source="/Resources/Htmls/HCTerms.zh_HK.html">換幣龍充值券-使用條款</Terms>
+      <NextPage>..\View\Count\HomePage.xaml</NextPage>
+    </Option>
+    -->
+    
+
+  </Options>
+</Layout>

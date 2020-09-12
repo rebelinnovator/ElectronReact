@@ -1,0 +1,49 @@
+{
+  "bankOpts" :[
+    {
+      "name": "HSBC",
+      "image": "Images/LOGO-HSBC.jpg",
+      "prefix": ["004"]
+    },
+    {
+      "name": "HangSeng",
+      "image": "Images/LOGO-HangSeng.jpg",
+      "prefix": ["024"]
+    },
+    {
+      "name": "BOC",
+      "image": "Images/LOGO-BankOfChina.jpg",
+      "prefix": ["012","014","019","026","030","031","033","036","064","070"]
+    },
+    {
+      "name": "StandardChartered",
+      "image": "Images/LOGO-StandardChartered.jpg",
+      "prefix": ["003"]
+    },
+    {
+      "name": "DBS",
+      "image": "Images/LOGO-DBS.jpg",
+      "prefix": ["016"]
+    },
+    {
+      "name": "BEA",
+      "image": "Images/LOGO-BEA.jpg",
+      "prefix": ["015"]
+    },
+    {
+      "name": "Fubon",
+      "image": "Images/LOGO-Fubon.jpg",
+      "prefix": ["128"]
+    },
+    {
+      "name": "China CITIC",
+      "image": "Images/LOGO-ChinaCitic.jpg",
+      "prefix": ["018"]
+    },
+    {
+      "name": "DahSing",
+      "image": "Images/LOGO-DahSing.jpg",
+      "prefix": ["040"]
+    }
+  ]
+}
